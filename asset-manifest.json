@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pretie_react_carousel/static/css/main.bc275875.css",
-    "main.js": "/pretie_react_carousel/static/js/main.22e346a6.js",
-    "static/js/787.18a14eca.chunk.js": "/pretie_react_carousel/static/js/787.18a14eca.chunk.js",
-    "index.html": "/pretie_react_carousel/index.html",
-    "main.bc275875.css.map": "/pretie_react_carousel/static/css/main.bc275875.css.map",
-    "main.22e346a6.js.map": "/pretie_react_carousel/static/js/main.22e346a6.js.map",
-    "787.18a14eca.chunk.js.map": "/pretie_react_carousel/static/js/787.18a14eca.chunk.js.map"
+    "main.css": "./static/css/main.bc275875.css",
+    "main.js": "./static/js/main.6263333b.js",
+    "static/js/787.18a14eca.chunk.js": "./static/js/787.18a14eca.chunk.js",
+    "index.html": "./index.html",
+    "main.bc275875.css.map": "./static/css/main.bc275875.css.map",
+    "main.6263333b.js.map": "./static/js/main.6263333b.js.map",
+    "787.18a14eca.chunk.js.map": "./static/js/787.18a14eca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc275875.css",
-    "static/js/main.22e346a6.js"
+    "static/js/main.6263333b.js"
   ]
 }
