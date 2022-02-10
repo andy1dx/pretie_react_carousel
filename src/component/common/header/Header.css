@@ -1,0 +1,22 @@
+.pretie_header-ul_container li {
+  float: left;
+  display: block;
+  padding: 10px 30px 10px 30px;
+}
+
+.pretie_header-ul_container {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px 0px 10px;
+  overflow: hidden;
+  background-color: #363636;
+  color: #ffffff;
+}
+.pretie_header-ul_container a {
+  color: #ffff;
+  text-decoration: none;
+}
+.pretie_header-ul_container a:hover {
+  color: #00ffe5;
+  text-decoration: none;
+}

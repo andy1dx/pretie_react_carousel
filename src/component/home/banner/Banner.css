@@ -1,0 +1,36 @@
+.pretie_header-spinner_container {
+  height: calc(100vw / 3);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.pretie_header-spinner_container > img {
+  width: 150px;
+}
+.pretie_header-banner_title {
+  font-size: 30px;
+  margin: 20px 0px 20px;;
+  background-color: #fff;
+  position: relative;
+}
+.pretie_header-banner_title>span {
+  position: relative;
+}
+.pretie_header-banner_title>span:before {
+  content: "";
+  background: #000;
+  position: absolute;
+  height: 2px;
+  width: 30px;
+  top: 50%;
+  left: -35px;
+}
+.pretie_header-banner_title>span:after {
+  content: "";
+  background: #000;
+  position: absolute;
+  height: 2px;
+  width: 30px;
+  top: 50%;
+  right: -35px;
+}

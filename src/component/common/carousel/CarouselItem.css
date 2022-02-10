@@ -1,0 +1,40 @@
+.pretie-carousel_item {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: calc(100vw / 3);
+  width: 100%;
+}
+.pretie-carousel_item>a {
+  width: 100%;
+  position: absolute;
+}
+.pretie-carousel_item>a>img {
+  width: 100%;
+}
+.pretie-carousel_text {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(0,0,0,0.3);
+  color: #fff;
+  white-space: break-spaces;
+}
+.pretie-carousel_text-title {
+  padding: 0px 20px;
+}
+@media screen and (min-width: 400px) and (max-width: 900px) {
+  .pretie-carousel_text {
+    font-size: 20px;
+  }
+}
+@media screen and (max-width: 400px) {
+  .pretie-carousel_text {
+    font-size: 10px;
+  }
+}
